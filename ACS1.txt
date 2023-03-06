@@ -3,3 +3,4 @@ https://git-scm.com/ ----  Versionar nossos códigos para obter uma melhor organ
 https://code.visualstudio.com/ ---- IDE, no nosso caso, usaremos como editor de texto para desenvolvimento da linguagem HTML, CSS e código javascript.
 https://sqlitebrowser.org/about/ ---- Biblioteca desenvolvida em C que implementa uma base de dados SQL
 https://www.google.com/intl/pt-BR/chrome/ ---- Navegador web, no qual renderizamos sites.
+protocolo IPX - O protocolo IPX/SPX é um protocolo proprietário desenvolvido pela Novell. Sua função é fornecer aos clientes serviços de compartilhamento de arquivos, impressão, comunicação, fax, segurança, funções de correio eletrônico, etc.
