@@ -1,0 +1,11 @@
+#original{
+    background-color: blue;
+}
+
+@media screen and (min-width: 1024px) {
+    #original{
+        border :solid black 1px;
+        background-color :red;
+    }
+    
+}
