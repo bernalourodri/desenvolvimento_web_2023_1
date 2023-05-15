@@ -1,0 +1,42 @@
+/*celular 375
+  tablet 768
+  desktop 1024
+*/
+
+.grid-container{
+
+    display: grid;
+}    
+
+
+.grid-container > div {
+text-align: center;
+font-weight: bolder;
+font-size: larger;
+border: solid black 1px;
+border-radius: 5px;
+padding: 2em;
+
+}
+
+.item4, .item5, .item6, .item7, .item8{
+    display: none;
+}
+
+@media screen and (min-width: 375px){
+    .grid-container{
+        grid-template-columns: auto auto;
+    }
+    .item4, .item5, .item6{
+        display: block;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .grid-container{
+        grid-template-columns: auto auto auto auto;
+    }
+    .item4, .item5, .item6, .item7, .item8{
+        display: block;
+    }
+}
